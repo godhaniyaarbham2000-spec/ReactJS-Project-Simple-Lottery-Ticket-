@@ -26,7 +26,7 @@ A simple and fun **React + Vite Lottery Game** where a random 3-digit ticket is 
 
 ## 📂 Project Structure
 ```
-Lottery-Game/
+ReactJS-Project-Simple-Lottery-Ticket/
 │
 ├── src/
 │ ├── App.jsx       # Main game logic
@@ -46,12 +46,12 @@ Lottery-Game/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/your-username/lottery-game.git
+git clone https://github.com/godhaniyaarbham2000-spec/ReactJS-Project-Simple-Lottery-Ticket.git
 ```
 
 ### 2. Move to project folder
 ```
-cd lottery-game
+cd ReactJS-Project-Simple-Lottery-Ticket
 ```
 
 ### 3. Install dependencies
