@@ -1,6 +1,6 @@
 # 🎟️ React Lottery Game Project
 
-A simple and fun **React + Vite Lottery Game** where a random 3-digit ticket is generated and the winner is decided based on the sum of digits. If the sum equals 15, the user wins the lottery.
+A simple and fun **React + Vite Lottery Game** where a random 3-digit ticket is generated and the winner is decided based on the sum of digits. If the sum equals 15, the user wins the lottery. 
 
 ---
 
